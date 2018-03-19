@@ -11,7 +11,7 @@ In this paper, we develop an interactive simulation model on landslide risks and
 We run a lab-based experiment involving human participants performing in ILS and we show that the ILS performance helps improve public understanding of landslide risks. Overall, we propose ILS to be an effective tool for doing what-if analyses by policymakers and for educating public about landslide risks.
 
 # Publications
-- **[Interactive Landslide Simulator: A Tool for Landslide Risk Assessment and Communication](https://link.springer.com/chapter/10.1007/978-3-319-41627-4_21)**. Jul 2016. Advances in Applied Digital Human Modeling and Simulation (Springer Books). Book Chapter
+- **[Interactive Landslide Simulator: A Tool for Landslide Risk Assessment and Communication](https://link.springer.com/chapter/10.1007/978-3-319-41627-4_21)**. Jul 2016. Advances in Applied Digital Human Modeling and Simulation (Springer Books). Book Chapter. [full-text](ils.pdf)
 
 - **[Learning in an Interactive Simulation Tool against Landslide Risks: The Role of Amount & Availability of Experi- ential Feedback](https://www.researchgate.net/publication/319471329_Learning_in_an_Interactive_Simulation_Tool_against_Landslide_Risks_The_Role_of_Amount_and_Availability_of_Experiential_Feedback)**. Sep 2017. Natural Hazards & Earth System Sciences. Journal Paper
 
