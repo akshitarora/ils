@@ -11,6 +11,8 @@ In this paper, we develop an interactive simulation model on landslide risks and
 # Publications
 - **[Does Deep Knowledge Tracing Model Interactions Among Skills?](https://github.com/aroraakshit/deep_knowledge_tracing/raw/master/deep-knowledge-tracing.pdf)**. March 2018. Poster Submission under review at [Educational Data Mining 2018](http://educationaldatamining.org/EDM2018/).
 
+- 
+
 # Collaborators
 1. Dr. Shirly Montero, Ph.D. student at University of Colorado Boulder [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/in/shirly-berends-montero-8aba639/)
 2. Dr. Sean Kelly, VP Engineering and Co-Founder at Woot Math [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/in/sean-kelly-2406baa/)
