@@ -3,3 +3,5 @@ description: Research Project under the guidance of <a href="https://faculty.iit
 show_downloads: false
 google_analytics: 'UA-109066326-3'
 theme: jekyll-theme-minimal
+url: https://aroraakshit.github.io
+plugins: [jekyll-sitemap]
